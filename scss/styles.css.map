@@ -2,7 +2,8 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "styles.scss"
+        "styles.scss",
+        "_navbar.scss"
     ],
     "names": [],
     "file": "styles.css"
